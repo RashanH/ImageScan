@@ -1,0 +1,8 @@
+C:\Users\RshnX5\Desktop\BitmapDetector\bin\Debug\BitmapDetector.exe
+C:\Users\RshnX5\Desktop\BitmapDetector\bin\Debug\BitmapDetector.pdb
+C:\Users\RshnX5\Desktop\BitmapDetector\obj\Debug\BitmapDetector.csprojResolveAssemblyReference.cache
+C:\Users\RshnX5\Desktop\BitmapDetector\obj\Debug\BitmapDetector.BitmapDetectorForm.resources
+C:\Users\RshnX5\Desktop\BitmapDetector\obj\Debug\BitmapDetector.Properties.Resources.resources
+C:\Users\RshnX5\Desktop\BitmapDetector\obj\Debug\BitmapDetector.csproj.GenerateResource.Cache
+C:\Users\RshnX5\Desktop\BitmapDetector\obj\Debug\BitmapDetector.exe
+C:\Users\RshnX5\Desktop\BitmapDetector\obj\Debug\BitmapDetector.pdb
